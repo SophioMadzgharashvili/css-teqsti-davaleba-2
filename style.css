@@ -1,0 +1,21 @@
+.box1 {
+    width: 350px;
+    height: 160px;
+    text-align: center;
+    color: #777777;
+}
+
+
+h4 {
+    color: #001AFF;
+    text-align: center;
+}
+
+
+
+.box2 {
+    width: 350px;
+    height: 160px;
+    text-align: justify;
+    color: red;
+}
